@@ -21,6 +21,11 @@ I am an aspiring coder with a passion for tackling challenging problems and buil
 
 ![vltc](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN00x4UQpbz15uOhiynQCELC23KSR_WbSkNA&s)
 
+## Skills
+
+- C++ , Python , C languages
+- HTML & CSS
+- DSA & OOPS
 
 ## Interests
 
